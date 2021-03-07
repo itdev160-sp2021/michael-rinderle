@@ -1,0 +1,80 @@
+
+body {
+    font-family: "Open Sans", sans-serif;
+    color: #555;
+}
+
+a {
+    color: #1e90ff;
+}
+
+header h1 {
+    color: #1e90ff;
+    background-color: #eee;
+    padding: .25em;
+    text-align: center;
+}
+
+header h2 {
+    font-size: .75em;
+    text-align: center;
+
+}
+
+img {
+    margin: 1em;
+    text-align: left;
+}
+
+figcaption span {
+    font-size: .85em;
+}
+
+#product-description {
+    padding-top: 1em;
+    padding-bottom: 1em;
+    /* margin: 20px 0 20px 0; 
+    text-align: justify;*/
+}
+
+#student-price {
+    color: green;
+    font-weight: bolder;
+}
+
+div.review {
+    display: block;
+    padding: 1em;
+    background-color: #eee;
+    margin: 20px 0 20px 0;
+}
+
+
+.review-section {
+    padding-top: 1.5em;
+    padding-left: 1.5em;
+    background-color: #555555;
+}
+
+.review-section h2 {
+    color: white;
+}
+
+.review-section h3 {
+    color: #1e90ff;
+    text-shadow: 1px 1px 1px black;
+}
+
+.review-section p {
+    font-weight: bolder;
+}
+
+footer {
+    padding-top: 1em;
+    text-align: center;
+    background-color: #1e90ff;
+}
+
+footer p {
+    font-size: .85em;
+}
